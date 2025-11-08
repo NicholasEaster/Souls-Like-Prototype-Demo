@@ -6,6 +6,9 @@ Here is a demo for a Unreal Engine 5 souls like prototype. I cannot include the 
 2. Double click the SunkenCity.exe file
 3. Close the program at any time by pressing Esc
 
+# Media Folder
+The media folder contains some images and a video of the full environment that will be used. Unfortunatly I do not have the current environment prepared for gameplay, so for now it remains playable on the level.
+
 # Credits:
 While the vast majority of this project is self made, there are a few things
 that aren't.
